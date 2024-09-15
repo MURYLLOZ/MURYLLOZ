@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MURYLLOZ
 - 👀 I’m interested in BrighScript Language
 - 🌱 I’m currently learning nothing currently
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Brazilian
 
 <!---
